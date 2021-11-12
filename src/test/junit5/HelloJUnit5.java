@@ -6,7 +6,7 @@ public class HelloJUnit5 {
 	
 	private String firstName;
 	
-	private String lastName;
+	private String lastName; 
 	
 	public HelloJUnit5(String firstName, String lastName) {
 			this.firstName = firstName;
